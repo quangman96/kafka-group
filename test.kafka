@@ -1,0 +1,5 @@
+PRODUCER keyed-message
+topic: test-topic
+key: mykeyq
+{{random.uuid}}
+###
